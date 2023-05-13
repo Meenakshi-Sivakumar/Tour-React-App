@@ -227,7 +227,7 @@ main {
   border-radius: var(--radius);
 }
 .single-tour .delete-btn:hover{
-  border: .10rem solid var(--clr-red-dark);
+  border: 0.13rem solid var(--clr-red-dark);
 
 }
 .tours{
