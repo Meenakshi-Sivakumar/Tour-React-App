@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="screenshot.png" alt="Screenshot of Tours Packages website">
+  <img src="our-tours.PNG" alt="Screenshot of Tours Packages website">
 </p>
 
 <p align="center">
