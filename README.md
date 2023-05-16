@@ -27,7 +27,6 @@ The project is built using HTML, CSS, JavaScript, and leverages the power of Rea
 - Browse through an extensive collection of tour packages
 - View detailed information, including destination highlights, itinerary, and pricing
 - Interactive interface with smooth transitions and animations
-- Filter and sort tours based on preferences
 - User-friendly booking process
 
 ## Usage
